@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>View Customer Details</title>
 </head>
 <body>
   <h1>View Customer Details</h1>
